@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+    <channel name="Channel 1" type="Active" enabled="True"></channel>
+	<channel name="Channel 2" type="Active" enabled="True"></channel>
+	<channel name="Channel 3" type="Active" enabled="True"></channel>
+	<channel name="Channel 4" type="Active" enabled="True"></channel>
+	<channel name="Channel 5" type="Reference" enabled="False"></channel>
+	<channel name="Channel 6" type="Reference" enabled="False"></channel>
+	<channel name="Channel 7" type="Ground" enabled="False"></channel>	
+    <samplingRate>100</samplingRate> 
+    <amplitude>100</amplitude>
+    <timeSpan>10</timeSpan>
+    <dataFileAddress>C:\Users\David\testData.txt</dataFileAddress>
+ </settings>

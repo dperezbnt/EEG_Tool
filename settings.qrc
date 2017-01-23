@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>eegIcon.png</file>
+        <file>connection.png</file>
+        <file>desconnection.png</file>
+        <file>quit.jpeg</file>
+        <file>refresh.jpg</file>
+    </qresource>
+    <qresource prefix="/settings">
+        <file>config.xml</file>
+    </qresource>
+</RCC>
